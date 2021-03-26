@@ -1,0 +1,3 @@
+include ':sharedprefdi'
+include ':app'
+rootProject.name = "SharedPrefModule"

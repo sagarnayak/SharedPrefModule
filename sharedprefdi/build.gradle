@@ -13,7 +13,7 @@ def getVersionName = { ->
 }
 
 def getArtificatId = { ->
-    return "sahredprefdi"
+    return "sharedprefdi"
 }
 
 publishing {
